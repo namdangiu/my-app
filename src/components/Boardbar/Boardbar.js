@@ -1,8 +1,8 @@
-import React from "react";
-import './Boardbar.scss';
+import React from 'react'
+import './Boardbar.scss'
 function Boardbar() {
-return(
+  return (
     <nav className="navbar-board">APP board</nav>
-)
+  )
 }
-export default Boardbar;
+export default Boardbar
